@@ -1,5 +1,9 @@
 /* A bit of custom CSS. I did not create a new stylesheet as it would have to be included in multiple index.html files, and I am not so keen on writing non-DRY code */
 
+.project-questions p {
+  margin-top: 20px;
+}
+
 .howitworks li {
   list-style-type: none
 }
