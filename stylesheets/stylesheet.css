@@ -9,6 +9,7 @@
 }
 
 #odd-teams {
+  padding-left: 0px;
   list-style-type: none
 }
 
@@ -35,10 +36,6 @@
   float: right;
   font-size: 12px;
   padding-right: 10px;
-}
-
-ul.menu {
-  margin-left: 300px;
 }
 
 .for-prize {
@@ -791,7 +788,6 @@ form {
 }
 
 h4:before {
-  content: "////";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -2.8em;
@@ -836,7 +832,7 @@ ul.menu li {
 
 a.list {
   display: block;
-  width: 240px;
+  width: 80px;
 }
 
 p {
@@ -860,7 +856,7 @@ blockquote {
 
 ul {
   list-style: disc inside;
-  padding-left: 20px;
+  padding-left: 0px;
 }
 
 ol {
