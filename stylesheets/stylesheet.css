@@ -9,6 +9,7 @@
 }
 
 #odd-teams {
+  padding-left: 0px;
   list-style-type: none
 }
 
@@ -35,10 +36,6 @@
   float: right;
   font-size: 12px;
   padding-right: 10px;
-}
-
-ul.menu {
-  margin-left: 300px;
 }
 
 .for-prize {
@@ -836,7 +833,7 @@ ul.menu li {
 
 a.list {
   display: block;
-  width: 240px;
+  width: 80px;
 }
 
 p {
@@ -860,7 +857,7 @@ blockquote {
 
 ul {
   list-style: disc inside;
-  padding-left: 20px;
+  padding-left: 0px;
 }
 
 ol {
